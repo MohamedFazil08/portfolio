@@ -43,7 +43,7 @@ header h1 {
 }
 
 header h1 span{
-    color: rgba(23, 142, 182, 0.586);
+    color: rgba(18, 200, 255, 0.586);
 }
 .row{
  flex-basis: 60%;
@@ -52,7 +52,7 @@ header h1 span{
 
 .section h2 {
     margin-bottom: 20px; /* Add space between h2 and p */
-    color:  rgba(23, 142, 182, 0.586);
+    color:  rgba(18, 200, 255, 0.586);
 }
 
 nav ul {
@@ -228,10 +228,10 @@ p{
 
 }
 .contact li i{
-    color:#ff004F;
+    color:#b9466b;
 }
 .contact p i{
-    color:#ff004F;
+    color:#b9466b;
 }
 
 .contact li i:hover{
